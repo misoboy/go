@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "kr/misoboy/goroutine"
+import "./goroutine"
 
 func main(){
 
